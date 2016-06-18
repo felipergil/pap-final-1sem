@@ -1,6 +1,6 @@
 # Projeto de Ação Profissional (PAP):
 
-E um trabalho transversal e multidisciplinar realizado pelo aluno a cada período. O objetivo é que os conceitos discutidos durante os módulos sejam aplicados na prática por meio de análise de organizações reais ou empreendimentos viáveis.
+É um trabalho transversal e multidisciplinar realizado pelo aluno a cada período. O objetivo é que os conceitos discutidos durante os módulos sejam aplicados na prática por meio de análise de organizações reais ou empreendimentos viáveis.
 
 A proposta combina o fazer individual e coletivo e incentiva a visibilidade de atitudes profissionais inferidas das leituras e interações didático-pedagógicas, a demonstração de habilidades na realização de escolhas, tomadas de decisão e aprofundamento de leituras de mundo e suas linguagens.
 
