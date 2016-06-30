@@ -1,10 +1,10 @@
 # Projeto de Ação Profissional (PAP):
 
-É um trabalho transversal e multidisciplinar realizado pelo aluno a cada período. O objetivo é que os conceitos discutidos durante os módulos sejam aplicados na prática por meio de análise de organizações reais ou empreendimentos viáveis.
+De uma forma objetiva, o Projeto de Ação Profissional, ou simplesmente PAP, tem como principal objetivo apresentar aos alunos alguns documentos, procedimentos, atividades e modelos utilizados no dia-a-dia das empresas e do mercado de Tecnologia. Esse material é apresentado aos alunos através de um estudo de caso ou projeto (CASE) com dados e informações fictícios, mas que representa muito bem algumas situações reais de empresas que precisam de serviços e ajuda com tecnologia para aprimorar seus produtos, processos e continuarem competitivas em seus ramos de atuação.
 
-A proposta combina o fazer individual e coletivo e incentiva a visibilidade de atitudes profissionais inferidas das leituras e interações didático-pedagógicas, a demonstração de habilidades na realização de escolhas, tomadas de decisão e aprofundamento de leituras de mundo e suas linguagens.
+Com isso o aluno tem a possibilidade de conhecer e praticar situações que serão encontradas com certa frequência, no exercício de sua função em empresas de tecnologia das mais diversas áreas de atuação.
 
-Por meio desse trabalho de integração, o PAP contempla a crítica da teoria em função da observação da realidade vivida pelos estudantes em suas cidades/regiões e o seu conhecimento profissional.
+O PAP atende a uma necessidade indicada nas diretrizes curriculares do MEC e da instituição. Devido à natureza profissionalizante do curso é necessária a atuação prática em um ambiente real. Também é importante que as diversas unidades de ensino participem de forma conjunta no aprendizado evitando que o conhecimento seja fragmentado.
 
 # Descrição PAP:
 
